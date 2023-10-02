@@ -1,10 +1,10 @@
-package dev.ergun.movies;
+package dev.ergun.moviespringbootreactmain;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MoviesApplicationTests {
+class MovieSpringbootReactMainApplicationTests {
 
 	@Test
 	void contextLoads() {
